@@ -2,8 +2,6 @@
 
 Wallet App is a full-stack mobile expense tracking project built with Expo React Native on the frontend and Express on the backend. The app is designed to help users keep track of daily spending and income through a clean mobile interface, secure authentication, and a simple transaction management flow.
 
-![App Screenshot](/mobile/assets/images/screenshot-for-readme.png)
-
 ## About The Project
 
 This project combines a cross-platform mobile app with a lightweight API to create a complete personal finance tracking experience. Users can sign in, add transactions, review their balance, and manage their transaction history from a mobile device. The application is structured to keep the experience straightforward while still covering the core pieces of a modern full-stack app such as authentication, API communication, database operations, and state handling.
